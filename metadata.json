@@ -1,0 +1,7 @@
+{
+  "name": "NutriVision Pro",
+  "description": "Advanced AI food analysis tool. Snap a photo of your meal to get detailed nutrition macros, ingredient functions, recipes, and target audience insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
